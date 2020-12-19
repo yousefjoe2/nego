@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "980898398539",
+    "firebase_url": "https://negochi-b6633.firebaseio.com",
+    "project_id": "negochi-b6633",
+    "storage_bucket": "negochi-b6633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980898398539:android:0c101d310fa9a4b866a8ce",
+        "android_client_info": {
+          "package_name": "com.shop.com_shop_negochi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980898398539-3nm2hhhcfnjp0857kiibqn3cprcnsqu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrt5kQdcEC1CqNk2rMDQoVimwEb1QtTe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980898398539-3nm2hhhcfnjp0857kiibqn3cprcnsqu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980898398539:android:a1ec5dfbd64c3f0666a8ce",
+        "android_client_info": {
+          "package_name": "com.shop.negochi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980898398539-rdaarq5nj5gnip8r0q5lsru15rh2nka0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shop.negochi",
+            "certificate_hash": "211a86fa21c6270c2f19eef1be05be6de1b34717"
+          }
+        },
+        {
+          "client_id": "980898398539-3nm2hhhcfnjp0857kiibqn3cprcnsqu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrt5kQdcEC1CqNk2rMDQoVimwEb1QtTe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980898398539-3nm2hhhcfnjp0857kiibqn3cprcnsqu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
